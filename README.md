@@ -2,6 +2,7 @@
 
 - 👩‍💻 I'm a Junior Java Developer
 - 🔧 Skills: Java, JavaScript, React, SQL
+- 🌱 I’m currently studying: Algorithms and data structures
 - 📫 How to reach me: dvliubimova@gmail.com
 <!--
 **BlackHolSun/BlackHolSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
