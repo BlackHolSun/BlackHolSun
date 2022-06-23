@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍💻 I'm a Junior Java Developer
+- 👩‍💻 I'm a Java Developer
 - 🔧 Skills: Java, JavaScript, React, SQL
 - 🌱 I’m currently studying: Algorithms and data structures
 - 📫 How to reach me: dvliubimova@gmail.com
