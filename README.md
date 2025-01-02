@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 👩‍💻 I'm a Java Developer
-- 🔧 Skills: Java, JavaScript, React, SQL
-- 🌱 I’m currently studying: Algorithms and data structures
+- 🔧 Skills: Java, Vue.js, JavaScript, React, SQL
+- 👩‍💻 Current job: Fullstack SW Engineer @ Tech Center of Multinational Investment Banking Company
+- 🌱 I’m currently studying: QueryDSL (language tailored for constructing and executing search queries)
 - 📫 How to reach me: dvliubimova@gmail.com
 <!--
 **BlackHolSun/BlackHolSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
